@@ -3,4 +3,6 @@ public class Featues {
     String e, f, g, h;
 
     char x, y, z;
+
+    int sum= a+b+c+d;
 }
